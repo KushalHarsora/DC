@@ -1,4 +1,4 @@
-# Experiment 9-10 (Token And Non-Token Basesd Algorithms - Raymond Tree and Ricart-Agrawala)
+# Experiment 9 (Token And Non-Token Basesd Algorithms - Raymond Tree and Ricart-Agrawala)
 
 This branch consists of sample code for ```Token And Non-Token Basesd Algorithms - Raymond Tree and Ricart-Agrawala```.
 
