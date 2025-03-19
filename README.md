@@ -1,11 +1,9 @@
-# Distributed Computing
+# Experiment 7 (Election Algorithms - Bully and Ring)
 
-All the Distributed Computing experiment codes in Java. Every experiment is in a branch name ```exp{experiment_number}```
+This branch consists of sample code for ```Election Algorithms - Bully and Ring```.
 
-Generally the code is in ```Main.java``` otherwise specified.
-
+Main code in ```main.cpp```.
 
 ## Author
 
 - [@KushalHarsora](https://github.com/KushalHarsora)
-
