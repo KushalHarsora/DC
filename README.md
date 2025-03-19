@@ -1,11 +1,9 @@
-# Distributed Computing
+# Experiment 9-10 (Token And Non-Token Basesd Algorithms - Raymond Tree and Ricart-Aragwala)
 
-All the Distributed Computing experiment codes in Java. Every experiment is in a branch name ```exp{experiment_number}```
+This branch consists of sample code for ```Token And Non-Token Basesd Algorithms - Raymond Tree and Ricart-Aragwala```.
 
-Generally the code is in ```Main.java``` otherwise specified.
-
+Ricart-Agarwala code in ```non-token.cpp```.
 
 ## Author
 
 - [@KushalHarsora](https://github.com/KushalHarsora)
-
